@@ -1,0 +1,9 @@
+MONVI Project
+
+Name: MONVI
+Description: CryptoCurrency App - Prices/News/Balance/Premium
+Tabs: Preturi / Noutati / Portofel
+
+Fonts: Coco Puff, 
+Colors: #1EE1CB, #386DAA, #44379B, #343434, #EFEFEF
+https://coolors.co/1ee1cb-386daa-44379b-343434-efefef
